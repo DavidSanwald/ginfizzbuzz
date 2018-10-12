@@ -11,20 +11,7 @@ npm install --save ginfizzbuzzer
 ```
 
 ## Usage
-
-```jsx
-import React, { Component } from 'react'
-
-import MyComponent from 'ginfizzbuzzer'
-
-class Example extends Component {
-  render () {
-    return (
-      <MyComponent />
-    )
-  }
-}
-```
+Do not use in production. Public API is still highly unstable and experimental.
 
 ## License
 
