@@ -1,6 +1,6 @@
 {
   "name": "ginfizzbuzzer",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Yo Dawg i herd you like to FizzBuzz, so we put a renderless render prop component into yo package repository, so you can Gin FizzBuzz while you compose Components.",
   "author": "DavidSanwald",
   "license": "MIT",

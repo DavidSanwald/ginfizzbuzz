@@ -1,0 +1,14 @@
+.Word {
+   position: absolute;
+  width: 100%;
+  overflow-wrap: beak-word;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 30vmin;
+  font-family: Kanit, sans-serif;
+  font-weight: 800;
+  will-change: transform, opacity;
+}
